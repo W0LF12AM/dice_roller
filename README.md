@@ -36,7 +36,7 @@ I built this app as a hands-on exercise from a Flutter course I’m currently le
 
 ## 🖼 Dice Assets
 
-Dice images (`dice_1.png` to `dice_6.png`) are placed inside the `/assets` folder.  
+Dice images (`dice1.png` to `dice6.png`) are placed inside the `/images` folder.  
 Make sure to declare them in `pubspec.yaml` like this:
 
 ```yaml

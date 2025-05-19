@@ -41,13 +41,13 @@ Make sure to declare them in `pubspec.yaml` like this:
 
 ```yaml
 flutter:
-  assets:
-    - assets/dice_1.png
-    - assets/dice_2.png
-    - assets/dice_3.png
-    - assets/dice_4.png
-    - assets/dice_5.png
-    - assets/dice_6.png
+  images:
+    - images/dice1.png
+    - images/dice2.png
+    - images/dice3.png
+    - images/dice4.png
+    - images/dice5.png
+    - images/dice6.png
 ```
 
 ---
